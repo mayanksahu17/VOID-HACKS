@@ -52,7 +52,7 @@ const chartConfig = {
   },
 } satisfies ChartConfig
 
-export function Component() {
+  const Components = () => {
   const totalVisitors = React.useMemo(() => {
     return chartData.reduce((acc, curr) => acc + curr.visitors, 0)
   }, [])
@@ -124,3 +124,5 @@ export function Component() {
     </Card>
   )
 }
+
+export default Components;
