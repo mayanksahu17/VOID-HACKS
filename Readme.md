@@ -70,9 +70,7 @@ Students submit the following:
 ### Database  
 - PostgreSQL / MongoDB for storing structured and unstructured data.  
 
-### Deployment  
-- **Containerization:** Docker.  
-- **Cloud Platforms:** AWS / Google Cloud.  
+
 
 ---
 
