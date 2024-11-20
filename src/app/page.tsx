@@ -1,3 +1,4 @@
+"use client"
 import { Hero } from "@/components/Home/Hero/Hero";
 import { WhyUse } from "@/components/Home/WhyUse/WhyUse";
 import Image from "next/image";
